@@ -1,4 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	It sets up the repository objects and meta-data.  These objects must be created first before committing.
-	
+	It sets up the repository objects and meta-data.  These objects must be
+	 created first before committing.
+
+	How is the staging area different from the working directory and the 
+	repository? What value do you think it offers?
+
+	It shows which files are going to be added but not yet committed.  It value 
+	derives from the fact that changes/additions can be shown before committing 
+	and changes can be made.
